@@ -1,0 +1,12 @@
+Name: Arvind Kumar  
+Role: NLP Engineer  
+
+Skills:
+Python, Transformers, TensorFlow, NLP Preprocessing
+
+Experience:
+- Worked with SBERT and BERT models
+- Built a resume parsing script using spaCy
+
+Education:
+B.Tech CSE, 2024

@@ -1,0 +1,60 @@
+Job Title: Machine Learning Engineer
+Company: TechNova AI Labs
+Location: Seattle, Washington
+
+Job Summary:
+We are seeking a Machine Learning Engineer to build, deploy, and optimize deep learning and NLP models for enterprise clients.
+
+Responsibilities:
+
+Build and deploy machine learning pipelines
+
+Work with Python, TensorFlow, PyTorch, and AWS
+
+Develop NLP models using BERT/SBERT
+
+Implement ETL pipelines using SQL, Pandas, and Numpy
+
+Containerize apps using Docker & Kubernetes
+
+Collaborate with cross-functional engineering teams
+
+Optimize model performance and inference latency
+
+Required Skills:
+
+Python
+
+Machine Learning
+
+Deep Learning
+
+TensorFlow
+
+PyTorch
+
+SQL
+
+AWS
+
+Docker
+
+Kubernetes
+
+NLP
+
+Pandas
+
+Numpy
+
+Preferred Skills:
+
+Spark
+
+FastAPI
+
+Linux
+
+Git
+
+Communication and teamwork

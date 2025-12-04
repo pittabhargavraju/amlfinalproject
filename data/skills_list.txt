@@ -1,0 +1,16 @@
+Python
+Machine Learning
+Deep Learning
+NLP
+TensorFlow
+PyTorch
+Data Analysis
+SQL
+Computer Vision
+Transformers
+BERT
+SBERT
+Communication Skills
+Leadership
+Problem Solving
+

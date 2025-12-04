@@ -1,0 +1,12 @@
+streamlit
+sentence-transformers
+spacy
+scikit-learn
+numpy
+pdfplumber
+python-docx
+rapidfuzz
+lime
+shap
+pandas
+matplotlib
