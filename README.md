@@ -96,7 +96,7 @@ FairHire AI was rigorously evaluated against several models (TF-IDF, Word2Vec, D
 
 ---
 
-## ⏭ Future Work
+##  Future Work
 
 - Multilingual resume support.
 - Integration with enterprise HR dashboards for a complete ATS solution.
